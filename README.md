@@ -15,3 +15,11 @@ Como Lite.appを起動しておくだけです。
 Como Liteは、CarbonアプリだったComoのCocoa版です。Carbon版Comoは設定が複雑すぎたので、Cocoa版は必要最小限に絞ってLiteとしました。
 
 ソースは[Xojo](https://www.xojo.com/)のプロジェクトファイルです。アプリ切換はNSNotificationObserverで検知しており、ここだけ[MBS Plugin](https://www.monkeybreadsoftware.de/xojo/)（有償ライセンス）を使用しています。
+
+## 旧バージョン
+[Como 1.5.0](http://tama-san.com/dl/files/Como_150.dmg.zip)
+[ComoDock 1.5.0](http://tama-san.com/dl/files/ComoDock_150.dmg.zip)
+* 2011.8.25
+* システム要件：OS X 10.4以降
+* Universal Binary
+* [旧ヘルプページ](http://tama-san.com/help/Como/index.html)
