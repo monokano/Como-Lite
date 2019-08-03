@@ -1,3 +1,5 @@
+![](https://i.imgur.com/FrGsdW6.png)
+
 # Como Lite
 macOS用デストップアプリケーション。
 最前面アプリが切り替わると、そのアプリのウインドウもすべて最前面にします。つまり、Classic Mac OSと同じ挙動を再現するものです。
