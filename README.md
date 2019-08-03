@@ -12,9 +12,9 @@ Como Lite.appを起動しておくだけです。
 * メニューバー［Como Lite > 環境設定...］で、対象をFinderのみに設定できます。
 
 ## 詳細
-Como Liteは、CarbonアプリだったComoのCocoa版です。Carbon版Comoは設定が複雑すぎたので、Cocoa版は必要最小限に絞ってLiteとしました。
+Como Liteは、CarbonアプリだったComoを64bit Cocoaアプリとして作り直したものです。Carbon版Comoは設定が複雑すぎたので、Cocoa版は必要最小限に絞ってLiteとしました。
 
-ソースは[Xojo](https://www.xojo.com/)のプロジェクトファイルです。アプリ切換はNSNotificationObserverで検知しており、ここだけ[MBS Plugin](https://www.monkeybreadsoftware.de/xojo/)（有償ライセンス）を使用しています。
+ソースは[Xojo](https://www.xojo.com/)のプロジェクトファイルです。[MBS Plugin](https://www.monkeybreadsoftware.de/xojo/)を使用しています。
 
 ## 旧バージョン
 [Como 1.5.0](http://tama-san.com/dl/files/Como_150.dmg.zip)
