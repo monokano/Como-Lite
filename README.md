@@ -2,6 +2,7 @@
 
 # Como Lite
 macOS用デストップアプリケーション。
+
 最前面アプリが切り替わると、そのアプリのウインドウもすべて最前面にします。つまり、Classic Mac OSと同じ挙動を再現するものです。
 
 ## インストール
@@ -19,8 +20,7 @@ Como Liteは、CarbonアプリだったComoを64bit Cocoaアプリとして作�
 ソースは[Xojo](https://www.xojo.com/)のプロジェクトファイルです。[MBS Plugin](https://www.monkeybreadsoftware.de/xojo/)を使用しています。
 
 ## 旧バージョン
-[Como 1.5.0](http://tama-san.com/dl/files/Como_150.dmg.zip)
-[ComoDock 1.5.0](http://tama-san.com/dl/files/ComoDock_150.dmg.zip)
+[Como 1.5.0](http://tama-san.com/dl/files/Como_150.dmg.zip)｜[ComoDock 1.5.0](http://tama-san.com/dl/files/ComoDock_150.dmg.zip)
 * 2011.8.25
 * システム要件：OS X 10.4以降
 * Universal Binary
