@@ -17,7 +17,9 @@ Como Lite.appを起動しておくだけです。
 ## 詳細
 Como Liteは、CarbonアプリだったComoを64bit Cocoaアプリとして作り直したものです。Carbon版Comoは設定が複雑すぎたので、Cocoa版は必要最小限に絞ってLiteとしました。
 
-ソースは[Xojo](https://www.xojo.com/)のプロジェクトファイルです。[MBS Plugin](https://www.monkeybreadsoftware.de/xojo/)を使用しています。
+## 開発環境
+* [Xojo](https://www.xojo.com/) 2019r3
+* [MBS Plugin](https://www.monkeybreadsoftware.de/xojo/) 19.4
 
 ## 更新履歴
 * v2.1.0　ダークモード対応
