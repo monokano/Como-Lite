@@ -7,7 +7,7 @@ macOS用デストップアプリケーション。
 
 ## インストール
 Como Lite.appをアプリケーションフォルダなどへコピーします。
-* システム要件：OS X 10.10.5以降
+* システム要件：OS X 10.9以降
 * ダウンロード後、Como Lite.appを選択し、右クリックメニューの［開く］を選択してください。
 
 ## 使い方
@@ -18,10 +18,13 @@ Como Lite.appを起動しておくだけです。
 Como Liteは、CarbonアプリだったComoを64bit Cocoaアプリとして作り直したものです。Carbon版Comoは設定が複雑すぎたので、Cocoa版は必要最小限に絞ってLiteとしました。
 
 ## 開発環境
-* [Xojo](https://www.xojo.com/) 2019r3
+* [Xojo](https://www.xojo.com/) 2018r2
 * [MBS Plugin](https://www.monkeybreadsoftware.de/xojo/) 19.4
 
 ## 更新履歴
+* v2.1.1
+	* macOS Catalina 10.15で動作しない場合があるのを対策した（未検証）。
+	* OS X 10.9以降対応に戻した。ダークモード非対応に。
 * v2.1.0　ダークモード対応
 
 ## 旧バージョン
