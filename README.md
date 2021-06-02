@@ -5,6 +5,9 @@ macOS用デストップアプリケーション。
 
 最前面アプリが切り替わると、そのアプリのウインドウもすべて最前面にします。つまり、Classic Mac OSと同じ挙動を再現するものです。
 
+## 動作しないとき
+[All Windows Appear](https://ixeau.com/all-windows-appear/) をお使いください。
+
 ## インストール
 Como Lite.appをアプリケーションフォルダなどへコピーします。
 * システム要件：OS X 10.9以降
